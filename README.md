@@ -39,7 +39,7 @@
    on github.com, or use git)
 4. Go to repository Settings → Pages → set source to the `main` branch, root
    folder → Save
-5. Your site will be live at `[https://yourusername.github.io/khandelwal-website/]  (https://khandelwaldistributors.github.io/Khandelwal_Distributors/)`
+5. Your site will be live at `https://yourusername.github.io/khandelwal-website/`
    within a couple of minutes
 6. Once you buy your domain, go to Settings → Pages → add your custom domain,
    then set up DNS records at your domain registrar (Hostinger/BigRock) as
